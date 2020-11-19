@@ -1,1 +1,3 @@
-console.log ("I want you to stop")
+console.error("halp")
+console.log("I wANt you to stop")
+console.warn("FBI is watching")
