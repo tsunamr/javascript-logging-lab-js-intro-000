@@ -1,3 +1,2 @@
 console.error(
-  "HALP"
-)
+  "HAL
